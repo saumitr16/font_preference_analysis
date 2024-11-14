@@ -24,12 +24,6 @@ This project predicts font usage preferences using machine learning. The applica
 
 ## Contributors
 
-- **Aatif Ahmad**  
-  ![Aatif Ahmad](https://firebasestorage.googleapis.com/v0/b/piit-52003.appspot.com/o/CandidateProfilePic%2FPwQwjfH55AX5q6HQy6CtSn3bzLC2?alt=media&token=85fe0914-9b1f-462c-90e2-1abaf735cf11)
+- **Aatif Ahmad**
 
-- **Saumitra Agarawal**  
-  ![Saumitra Agarawal](https://media.licdn.com/dms/image/D4D03AQHqHkglSCnN1Q/profile-displayphoto-shrink_200_200/0/1718616434378?e=1736985600&v=beta&t=5oEujgosQpdfxejULEyByH0Kkk1NrQ0E4qqmRODsE_w)
-
-## License
-
-This project is licensed under the MIT License.
+- **Saumitra Agarawal**

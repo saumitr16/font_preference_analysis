@@ -1,4 +1,4 @@
-# Font Usage Prediction Project
+# Font Preference Analysis Project
 
 This project predicts font usage preferences using machine learning. The application is divided into three main parts: frontend, backend, and machine learning (ML) model.
 
